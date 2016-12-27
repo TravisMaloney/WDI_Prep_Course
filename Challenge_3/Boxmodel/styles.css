@@ -1,0 +1,22 @@
+div {
+    background-color: grey;
+    color: white;
+    padding: 10px 20px;
+    outline: 2px dotted grey;
+    margin: 30px;
+    width: 200px;
+}
+
+.img1 {
+    background-color: grey;
+    padding: 10px;
+    max-width: 200px;
+    height: auto;
+    
+}
+
+.img2 {
+    border: 10px solid grey;
+    max-width: 200px;
+    height: auto;
+}
